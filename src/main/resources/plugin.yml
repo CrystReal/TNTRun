@@ -1,0 +1,5 @@
+name: TNTRun
+main: com.updg.tntrun.TNTRunPlugin
+version: 1
+depend: [CRAPI]
+commands:
